@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#eef4fb"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="650" fill="url(#bg)"/>
+  <rect x="80" y="560" width="1000" height="16" fill="#93a4b8"/>
+  <polygon points="220,460 880,560 940,420 280,320" fill="#d6e3f3" stroke="#5e738c" stroke-width="3"/>
+  <line x1="280" y1="320" x2="880" y2="560" stroke="#e5902f" stroke-width="18"/>
+  <circle cx="590" cy="445" r="35" fill="#d8a34c" stroke="#7d5a22" stroke-width="3"/>
+  <line x1="130" y1="560" x2="130" y2="300" stroke="#4f6277" stroke-width="8"/>
+  <line x1="130" y1="300" x2="290" y2="300" stroke="#4f6277" stroke-width="4"/>
+  <line x1="130" y1="560" x2="250" y2="560" stroke="#4f6277" stroke-width="8"/>
+
+  <text x="310" y="280" font-size="34" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">Standard Inclined-Plane Diagram</text>
+  <text x="300" y="355" font-size="30" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">l</text>
+  <text x="108" y="430" font-size="30" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">P</text>
+  <text x="430" y="595" font-size="30" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">b</text>
+  <text x="525" y="410" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">m</text>
+  <text x="760" y="500" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">θ</text>
+
+  <text x="740" y="88" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">τ = F / A</text>
+  <text x="740" y="128" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">F = m g sin(θ)</text>
+  <text x="740" y="168" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">A = π r²</text>
+  <text x="740" y="208" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">dv = l / t</text>
+  <text x="740" y="248" font-size="28" fill="#203244" font-family="Segoe UI, Noto Sans, sans-serif">μ = (τ · dy) / dv</text>
+</svg>
